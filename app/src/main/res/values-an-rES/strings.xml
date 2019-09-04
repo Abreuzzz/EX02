@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Llenar con"</string>
+    <string name="gasolina">" Precio del litro de gasolina"</string>
+    <string name="resultado">" Es mejor llenar con ..."</string>
+    <string name="escolhaGasolina">" Es mejor llenar con gasolina"</string>
+    <string name="escolhaEtanol">Es mejor llenar con etanol</string>
+    <string name="alcool">Precio del litro de etanol.</string>
+</resources>

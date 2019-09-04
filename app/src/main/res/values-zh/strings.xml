@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 填充"</string>
+    <string name="alcool">" 一升乙醇的价格"</string>
+    <string name="escolhaEtanol">最好是加入乙醇</string>
+    <string name="escolhaGasolina">" 最好填充汽油"</string>
+    <string name="gasolina">" 汽油升价 "</string>
+    <string name="resultado">" 最好填写......"</string>
+</resources>

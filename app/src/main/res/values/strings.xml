@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fill With</string>
+    <string name="gasolina">" Petrol liter price"</string>
+    <string name="alcool">Price of the liter of ethanol</string>
+    <string name="resultado">" It is better to fill up with ..."</string>
+    <string name="escolhaGasolina">It is better to fill with gasoline</string>
+    <string name="escolhaEtanol">" It is better to fill with ethanol"</string>
+
+</resources>

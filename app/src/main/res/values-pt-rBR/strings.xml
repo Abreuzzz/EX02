@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Abasteça com</string>
+    <string name="alcool">Preço do litro do etanol</string>
+    <string name="escolhaEtanol">É melhor usar etanol</string>
+    <string name="escolhaGasolina">É melhor usar gasolina</string>
+    <string name="gasolina">Preço do litro da gasolina</string>
+    <string name="resultado">É melhor usar...</string>
+</resources>
